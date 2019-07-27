@@ -1,10 +1,11 @@
 # 真正的个人免签约支付接口
 
-官方网站：https://www.yunmianqian.com
+"云免签"官方网站：https://www.yunmianqian.com
+开发文档：https://doc.yunmianqian.com
 
 官方QQ群：782313003
 
-无需签约，无需手动挂机监控，即时到帐，超低服务费！
+免签约，无需挂机监控，即时到帐，超低服务费！
 
 * 无资金托管结算，收款即时到你个人账户，更放心！
 
